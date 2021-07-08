@@ -1,0 +1,9 @@
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\bin\Debug\Potapanje_brodova.exe
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\bin\Debug\Potapanje_brodova.pdb
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.Form1.resources
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.Properties.Resources.resources
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.csproj.GenerateResource.Cache
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.exe
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.pdb
+c:\users\nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.ime.resources
+C:\Users\Nikola\documents\visual studio 2010\Projects\Potapanje_brodova\Potapanje_brodova\obj\x86\Debug\Potapanje_brodova.csprojResolveAssemblyReference.cache
